@@ -1,0 +1,4 @@
+.infobar {box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;}
+
+.infobar .infobar_inner {padding:0 28px;}
+.infobar .infobar_inner span#infobar_txt a#infobar_link{text-decoration:underline;}
