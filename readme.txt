@@ -7,7 +7,7 @@ Author URI: http://ymbproperties.com
 Author: YMB Properties
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: trunk
+Stable tag: 1.2
 Version: 1.2
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
