@@ -6,7 +6,7 @@ Tags: notification, bar, notify
 Author URI: http://ymbproperties.com
 Author: YMB Properties
 Requires at least: 3.0.1
-Tested up to: 3.4
+Tested up to: 3.5
 Stable tag: 1.0
 Version: 1.0
 License: GPLv2 
