@@ -40,11 +40,9 @@ No F.A.Q. yet.
 
 == Screenshots ==
 
-1. /assets/screenshot-1.png
-
-2. /assets/screenshot-2.png
-
-3. /assets/screenshot-1.png
+1. All infobar page showing all the campaigns.
+2. Campaign global settings.
+3. Customize the notification bar text, link and background color etc.
 
 == Changelog ==
 
