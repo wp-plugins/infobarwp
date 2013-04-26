@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: Bertranddo, sushilchauhan
-Plugin Name: InfobarWP 
+Plugin Name: InfobarWP Notification Bars 
 Plugin URI: http://infobarwp.com
 Tags: notification, bar, notify
 Author URI: http://ymbproperties.com
